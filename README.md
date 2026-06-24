@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -59,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
