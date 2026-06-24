@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
