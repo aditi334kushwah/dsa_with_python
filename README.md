@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
