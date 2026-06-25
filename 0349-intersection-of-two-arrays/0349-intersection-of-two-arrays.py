@@ -1,21 +1,36 @@
 class Solution(object):
     def intersection(self, nums1, nums2):
 
-        seen = set()
+        nums1.sort()
+        nums2.sort()
 
-        for num in nums1 :
-            seen.add(num)
+        res =[] 
 
-        res = []
-        for  n in nums2 :
-            
-            if n in seen :
+        j = 0
+        i = 0
 
-                if n not in res :
-                    res.append(n)
+        while i < len(nums1) and j < len(nums2) :
 
-            
+            if nums1[i] == nums2[j] :
+
+                if not res or res[-1] != nums1[i]  :
+
+                    res.append(nums1[i])
+                i += 1
+                j += 1
+
+            elif nums1[i] < nums2[j]:
+
+                i += 1
+
+
+            else :
+
+                j += 1
+
+        
         return res
+
 
        
         
