@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
