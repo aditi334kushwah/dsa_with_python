@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
