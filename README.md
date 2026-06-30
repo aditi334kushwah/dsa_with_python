@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
@@ -136,5 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
