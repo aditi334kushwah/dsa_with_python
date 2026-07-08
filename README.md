@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0918-maximum-sum-circular-subarray) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Design
