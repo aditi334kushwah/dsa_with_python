@@ -1,12 +1,10 @@
 class Solution(object):
     def moveZeroes(self, nums):
 
-        left = 0
+        slow = 0
 
-        for right in range(len(nums)):
+        for fast in range(len(nums)):
 
-            if nums[right] != 0:
-
-                nums[left], nums[right] = nums[right], nums[left]
-
-                left += 1
+            if nums[fast] != 0:
+                nums[slow], nums[fast] = nums[fast], nums[slow]
+                slow += 1
