@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
