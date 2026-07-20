@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
