@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 ## String Matching
 |  |
 | ------- |
