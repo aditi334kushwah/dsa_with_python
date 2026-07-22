@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
