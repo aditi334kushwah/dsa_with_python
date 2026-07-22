@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0344-reverse-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
