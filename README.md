@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
