@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
