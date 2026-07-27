@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1544-make-the-string-great) |
 ## Recursion
 |  |
 | ------- |
