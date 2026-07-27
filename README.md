@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0496-next-greater-element-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0202-happy-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
