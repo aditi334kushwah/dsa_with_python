@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0680-valid-palindrome-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0567-permutation-in-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -227,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0844-backspace-string-compare) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
