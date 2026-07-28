@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0881-boats-to-save-people) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -243,9 +248,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
