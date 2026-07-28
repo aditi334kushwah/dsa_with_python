@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi334kushwah/dsa_with_python/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditi334kushwah/dsa_with_python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
