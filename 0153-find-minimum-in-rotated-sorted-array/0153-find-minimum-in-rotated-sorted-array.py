@@ -3,11 +3,10 @@ class Solution(object):
         low =0 
         
         high = len(nums)-1
-      
 
         while low<high :
 
-            mid = (low+high)/2
+            mid = (low+high)//2
             
 
             if nums[mid] > nums[high] :
@@ -16,8 +15,7 @@ class Solution(object):
 
             else :
 
-               
-                high = mid
+                high = mid 
         
         return nums[low]
 
